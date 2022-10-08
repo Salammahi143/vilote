@@ -1,0 +1,111 @@
+@media only screen and (max-width : 767px) {
+    .banner-slider .item .slider-content h1 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .banner-slider .item .slider-content p {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .banner-slider .owl-nav button.owl-next {
+        display: none;
+    }
+    .banner-slider .owl-nav button.owl-prev {
+        display: none;
+    }
+    .banner-slider .item .slider-content .slider-btn {
+        padding: 15px 25px;
+        font-size: 14px;
+    }
+    .ptb-100 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pb-70 {
+        padding-bottom: 20px;
+    }
+    .pt-100 {
+        padding-top: 50px;
+    }
+    .section-title h2 {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+    .section-title {
+        margin-bottom: 30px;
+    }
+    .profile-img {
+        margin-bottom: 20px;
+    }
+    .about-text {
+        padding-left: 0;
+    }
+    .default-btn {
+        padding: 13px 25px;
+        font-size: 14px;
+    }
+    .skill-card h3 {
+        font-size: 18px;
+    }
+    .services-area h3 {
+        font-size: 18px;
+    }
+
+    .funfacts-card {
+        padding: 30px 20px;
+        text-align: center;
+        border: 1px solid #987dee;
+    }
+    .funfacts-card i {
+        position: initial;
+        margin-bottom: 20px;
+    }
+    .feedback-item .feedback-header h3 {
+        font-size: 20px;
+    }
+    .feedback-item .feedback-header {
+        margin-bottom: 20px;
+    }
+    .feedback-item .feedback-text {
+        margin-bottom: 20px;
+    }
+    .footer {
+        text-align: center;
+    }
+    .footer ul {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .color-switcher .switcher-btn {
+       display: none;
+    }
+    .color-switcher h3 {
+       display: none;
+    }
+    .color-switcher{
+        display: none;
+    }
+    .single-services {
+        margin-bottom: 30px;
+    }
+    .office h2 {
+        font-size: 39px;
+    }
+    .socail-icon h5 {
+        padding: 15px 23px 15px 24px;
+        width: 85%;
+        margin-top: 20px;
+    }
+    .office h3 {
+        font-size: 17px;
+    }
+    .socail-icon ul li {
+        font-size: 14px;
+    }
+    li.nav-item {
+        background: gray;
+        border: 1px solid#fff;
+        padding: 6px;
+    }
+    
+}
